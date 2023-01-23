@@ -3,7 +3,7 @@
  Исходящие: <input type="text" name="name"><br />
 <input name="submit" type="submit" value="Отправить"> 
 <br/>
- Входящие: мне тоже, а кому сейчас легко ?<br />
+ Входящие: напиши что-нибудь<br />
 </form>
 
 
